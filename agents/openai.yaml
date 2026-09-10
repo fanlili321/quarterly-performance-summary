@@ -1,0 +1,7 @@
+interface:
+  display_name: "季度绩效总结"
+  short_description: "汇总季度工作证据、打磨自评文案并填写绩效表"
+  default_prompt: "Use $quarterly-performance-summary to summarize my quarterly work and fill the performance self-review form."
+
+policy:
+  allow_implicit_invocation: true
